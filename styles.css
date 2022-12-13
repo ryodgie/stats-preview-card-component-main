@@ -6,9 +6,6 @@
   --main-head-stats: hsl(0, 0%, 100%);
   --main-paragraph: hsla(0, 0%, 100%, 0.75);
   --stat-headings: hsla(0, 0%, 100%, 0.6);
-
-  font-family: "Inter", sans-serif;
-  font-family: "Lexend Deca", sans-serif;
 }
 
 * {
