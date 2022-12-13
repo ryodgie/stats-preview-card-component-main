@@ -104,4 +104,8 @@ span {
     display: flex;
     flex-direction: column;
   }
+
+  .stat {
+    padding: 1rem;
+  }
 }
